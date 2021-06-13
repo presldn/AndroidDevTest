@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidDeveloperTest</string>
+    <string name="product_image_description">Image of product</string>
+    <string name="fave_button_description">Button to save product as favourite</string>
+    <string name="load_product_error">An error occurred while loading products.</string>
+    <string name="product_fave_message">Product liked.</string>
+    <string name="retry">Retry</string>
+    <string name="clothing_title">Clothing</string>
+</resources>
